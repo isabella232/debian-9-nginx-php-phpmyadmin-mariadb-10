@@ -1,4 +1,4 @@
-# MariaDB 5 with phpMyAdmin on Ubuntu 16.04 LTS (Xenial Xerus)
+# MariaDB 5 with phpMyAdmin on debian 9
 
 This image provides a common MariaDB database server. The intent is for the data itself to be stored in persistent storage wihch is then mounted in to this image at `/var/lib/mysql`
 
